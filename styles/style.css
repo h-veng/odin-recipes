@@ -1,0 +1,16 @@
+:root {
+  background-color: antiquewhite;
+  color: rgb(24, 95, 128);
+  font-family: cursive;
+}
+
+.ingredients {
+  background-color: red;
+  color: white;
+  font-family: 'Trebuchet MS', cursive;
+}
+
+.method {
+  background-color: aqua;
+  font-size: 30px;
+}
